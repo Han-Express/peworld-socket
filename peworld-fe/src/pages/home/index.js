@@ -2,8 +2,9 @@ import React from 'react'
 import Layout from '../../Component/Layout'
 
 const Sort = () => {
+
   return (
-    <Layout>
+    <Layout >
       <div>Sort</div>
     </Layout>
     
